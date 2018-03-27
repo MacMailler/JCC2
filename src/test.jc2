@@ -1,0 +1,6 @@
+use stdlib;
+
+void main ()
+{
+  print ("hello!");
+}
